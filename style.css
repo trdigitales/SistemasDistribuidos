@@ -83,7 +83,7 @@ body {
 
 /* Botón de eliminar */
 .btn-eliminar {
-	background: #F44336;
+	background: #3643f4;
 	border: none;
 	color: white;
 	cursor: pointer;
@@ -95,5 +95,5 @@ body {
 }
 
 .btn-eliminar:hover {
-	background: #D32F2F;
+	background: #4d2fd3;
 }
