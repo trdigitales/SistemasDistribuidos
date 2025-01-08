@@ -70,4 +70,4 @@
 	tareaInput.addEventListener("click", comprobarInput);
 })();
 
-
+  //estos son nuevos cambios
